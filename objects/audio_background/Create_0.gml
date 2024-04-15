@@ -1,0 +1,1 @@
+background_music = audio_play_sound(level_sound, 1, true);
