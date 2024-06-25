@@ -9,7 +9,7 @@ Safe Steps is an engaging, educational game designed to teach players about safe
 - **Progress Tracking**: Monitor your acheivements through the stars system.
 
 ## Screenshots
-![Screenshot1](path_to_screenshot1)
+![Screenshot1](Images/Screenshot(44).png)
 ![Screenshot2](path_to_screenshot2)
 ![Screenshot3](path_to_screenshot3)
 
