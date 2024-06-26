@@ -28,6 +28,7 @@ Follow these steps to access Safe Steps source code on your system:
 1. **Click Start**: Click the Start button to begin the game.
 2. **Navigate through the levels**: Navigate the player with WASD or Up, Down, Left and Right Keyboard Keys through the three levels of the game.
 3. **Avoid hazards**: Avoid oncoming traffic, potholes and ice. Coming in contact with them will cause the player to respawn to the starting point of the level.
+4. **Collect Stars**: Once you collected all three stars from the three levels you will be redirected back to the start menu where you can play the game.
 
 
 ## Contributing
