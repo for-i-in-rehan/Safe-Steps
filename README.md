@@ -9,10 +9,10 @@ Safe Steps is an engaging, educational game designed to teach players about safe
 - **Progress Tracking**: Monitor your acheivements through the stars system.
 
 ## Screenshots
-![Screenshot1](Images/Screenshot(44).png)
-![Screenshot2](path_to_screenshot2)
-![Screenshot3](path_to_screenshot3)
-
+![Screenshot1](Images/startmenu.png)
+![Screenshot2](Images/level1.png)
+![Screenshot3](Images/level2.png)
+![Screenshot4](Images/level3.png)
 ## Access Source Code On Local Devices
 Follow these steps to access Safe Steps source code on your system:
 
